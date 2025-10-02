@@ -1,8 +1,7 @@
 # 👋 ¡Hola! Soy Roger Erik Concepción León
 
 🎓 Estudiante de **Computación e Informática en Cibertec**.  
-💻 Apasionado por el desarrollo web, backend y la arquitectura limpia.  
-
+💻 Apasionado por el desarrollo backend, microservicios y arquitecturas limpias.  
 
 ---
 
@@ -17,28 +16,37 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Blob_Storage-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-FFFFFF?style=for-the-badge&logo=cloudinary&logoColor=orange" />
-
-
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
 ---
 
 ## 📚 Actualmente aprendiendo
 
-- 🔐 Autenticación moderna con JWT
-- 🧱 Microservicios con Spring Cloud y API Gateway
-- 🌐 Desarrollo frontend con Angular
+- 🐇 **RabbitMQ** y 🌀 **Kafka** para mensajería en microservicios  
+- 🔐 Autenticación moderna con JWT  
+- 🧱 Arquitectura de **microservicios con Spring Cloud** y API Gateway  
+- 🌐 Desarrollo frontend con Angular  
 
 ---
 
 ## 💼 Proyectos Destacados
 
-- 🛒 **Sistema eCommerce modular** con autenticación JWT y Cloudinary para imágenes
-- 🧾 **Sistema de inventario para farmacias** usando React, Spring Boot y MySQL
-- 📑 **Reportes PDF/Excel** con JasperReports en .NET y Java
+- 🛒 **Sistema eCommerce modular**  
+  🔹 Microservicios con autenticación JWT, Cloudinary para imágenes y manejo de carritos.  
+
+- 🧾 **Sistema de inventario para farmacias**  
+  🔹 Implementado con React, Spring Boot y MySQL, incluye reportes e integración con proveedores.  
+
+- 📑 **Reportes PDF/Excel**  
+  🔹 Generados con JasperReports en .NET y Java para gestión empresarial.  
+
+- ☁️ **Gestión de Certificaciones con Azure Blob Storage**  
+  🔹 Almacenamiento seguro y escalable en la nube.  
 
 ---
 
@@ -46,8 +54,8 @@
 
 - 🌍 Trujillo, Perú 🇵🇪  
 - 📧 concepcionleonrogererik@gmail.com  
-- 🔗 [LinkedIn - Roger Erik Concepción León](https://www.linkedin.com/in/roger-erik-concepcion-leon-1b3187356/)
+- 🔗 [LinkedIn - Roger Erik Concepción León](https://www.linkedin.com/in/roger-erik-concepcion-leon-1b3187356/)  
 
 ---
 
-> _"Nunca pares de aprender, nunca pares de crear."_ 🚀  
+> _"Nunca pares de aprender, nunca pares de crear."_ 🚀
