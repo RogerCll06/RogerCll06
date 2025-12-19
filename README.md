@@ -6,6 +6,8 @@
 ---
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=700&color=0FF5FC&width=435&lines=%C2%A1Hola!+%F0%9F%91%8B+Soy+Jos%C3%A9+Huanca;Full+Stack+Developer+en+formaci%C3%B3n;Bienvenido+a+mi+GitHub" alt="Typing SVG" />
+    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=700&color=0FF5FC&width=435&lines=%C2%A1Hola!+%F0%9F%91%8B+Soy+Jos%C3%A9+Huanca;Full+Stack+Developer+en+formaci%C3%B3n;Bienvenido+a+mi+GitHub](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhqyijSf0784ouhozu_13Mug737IReYlyG3Q&s)" alt="Typing SVG" />
+
 </h1>
 
 <p align="center">
