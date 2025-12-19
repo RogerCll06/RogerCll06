@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy José Huanca</h1>
+<h1 align="center">¡Hola! 👋 Soy Roger chuquival </h1>
 <p align="center">💻 Estudiante de Computación e Informática | Desarrollador Full Stack en formación</p>
 <p align="center">📍 Trujillo, Perú | 📧 josehuanca612@gmail.com | 🔗 <a href="https://www.linkedin.com/in/jose-huanca-061392274/">LinkedIn</a></p>
 <!-- Perfil con animaciones y estilos mejorados para un programador Full Stack -->
