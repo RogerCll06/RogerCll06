@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Jhuanca2023/Jhuanca2023/assets/your-github-username/waving-hand.gif" width="60" alt="Hola" />
+  <img src="[https://github.com/Jhuanca2023/Jhuanca2023/assets/your-github-username/waving-hand.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhqyijSf0784ouhozu_13Mug737IReYlyG3Q&s)" width="60" alt="Hola" />
 </p>
 
 ### 👨‍💻 Sobre mí
